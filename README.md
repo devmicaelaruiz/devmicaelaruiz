@@ -1,4 +1,4 @@
-# ![](https://github.com/devmicaelaruiz/devmicaelaruiz/blob/afc1f22151a2f77213063661776f6b14e9f787c0/logo.png) Hola, mi nombre es Micaela Ruiz 👋
+# ![](https://github.com/devmicaelaruiz/devmicaelaruiz/blob/afc1f22151a2f77213063661776f6b14e9f787c0/logo.png) Hi 👋, my name is Micaela Ruiz
 ### Data Science & AI student
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
@@ -34,4 +34,4 @@
 - ![SAS_Studio](https://img.shields.io/badge/SAS_Studio-B34936?style=for-the-badge&logo=sas&logoColor=white&labelColor=101010)
 
 </br>
-Y alguna más...
+and some more...
