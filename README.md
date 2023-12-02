@@ -35,7 +35,3 @@
 
 </br>
 Y alguna más...
-
-## Encuéntrame en:
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/micaelaruizsoto)
