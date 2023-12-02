@@ -1,4 +1,4 @@
-# (https://github.com/devmicaelaruiz/devmicaelaruiz/blob/afc1f22151a2f77213063661776f6b14e9f787c0/logo.png) Hola, mi nombre es Micaela Ruiz 👋
+# ![](https://github.com/devmicaelaruiz/devmicaelaruiz/blob/afc1f22151a2f77213063661776f6b14e9f787c0/logo.png) Hola, mi nombre es Micaela Ruiz 👋
 ### Data Science & AI student
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
