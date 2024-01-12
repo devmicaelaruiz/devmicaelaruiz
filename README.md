@@ -22,17 +22,17 @@
 
 ### Herramientas de Análisis:
 - ![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=101010)
-- ![AI](https://img.shields.io/badge/AI-2DA9E1?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=101010)
-- ![Machine_Learning](https://img.shields.io/badge/Machine_Learning-48B6F1?style=for-the-badge&logo=machine-learning&logoColor=white&labelColor=101010)
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)
+- ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white&labelColor=101010)
+- ![SAS_Studio](https://img.shields.io/badge/SAS_Studio-B34936?style=for-the-badge&logo=sas&logoColor=white&labelColor=101010)
 
 ### Plataformas en la Nube:
 - ![IBM](https://img.shields.io/badge/IBM-0538AB?style=for-the-badge&logo=ibm&logoColor=white&labelColor=101010)
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)
 
-### Herramientas de Productividad:
-- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)
-- ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white&labelColor=101010)
-- ![SAS_Studio](https://img.shields.io/badge/SAS_Studio-B34936?style=for-the-badge&logo=sas&logoColor=white&labelColor=101010)
+### Conocimiento relacionado:
+- ![AI](https://img.shields.io/badge/AI-2DA9E1?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=101010)
+- ![Machine_Learning](https://img.shields.io/badge/Machine_Learning-48B6F1?style=for-the-badge&logo=machine-learning&logoColor=white&labelColor=101010)
 
 </br>
 and some more...
