@@ -34,7 +34,7 @@
 
 ### Conocimiento relacionado / Skills Related to Data Science:
 - ![AI](https://img.shields.io/badge/AI-2DA9E1?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=101010)
-- ![Machine_Learning](https://img.shields.io/badge/Machine_Learning-48B6F1?style=for-the-badge&logo=machine-learning&logoColor=white&labelColor=101010)
+- ![Machine_Learning](https://img.shields.io/badge/Machine_Learning-276DC3?style=for-the-badge&logo=machine-learning&logoColor=white&labelColor=101010)
 
 </br>
 y mucho más... /
