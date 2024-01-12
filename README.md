@@ -31,6 +31,7 @@
 
 ### Herramientas de Productividad:
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)
+- ![Google Sheets](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)
 - ![SAS_Studio](https://img.shields.io/badge/SAS_Studio-B34936?style=for-the-badge&logo=sas&logoColor=white&labelColor=101010)
 
 </br>
